@@ -1,7 +1,7 @@
 {
   "app": "ElectroWrite",
-  "latestVersion": "0.0.115",
-  "releaseNotes": "• Modified ElectroWrite Project - VersionCheckStage.cs (Added Update Check Feature) and Modified ElectroWrite Project - UpdateCoordinator.cs (Added Update Check Feature)",
+  "latestVersion": "0.0.121",
+  "releaseNotes": "• Modified ElectroWrite Project (Added Update Check Feature)",
   "downloadUrl": "https://github.com/ElectroOffice/ElectroOffice/releases/download/ElectroWrite-1.1.0/ElectroWrite.Setup.zip",
   "mandatory": false
 }
