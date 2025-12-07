@@ -1,0 +1,7 @@
+{
+  "app": "ElectroWrite",
+  "latestVersion": "0.0.110",
+  "releaseNotes": "• Modified ElectroWrite Project - AssemblyInfo.cs (Added assembly info)",
+  "downloadUrl": "https://github.com/ElectroOffice/ElectroWrite/releases/download/v1.0.1/ElectroWriteSetup.exe",
+  "mandatory": false
+}
