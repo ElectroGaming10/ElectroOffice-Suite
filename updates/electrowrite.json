@@ -1,6 +1,6 @@
 {
   "app": "ElectroWrite",
-  "latestVersion": "0.0.123",
+  "latestVersion": "0.0.124",
   "releaseNotes": "• Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (Added Real download progress reporting) & Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml (Added Theme to Updater)",
   "downloadUrl": "https://github.com/ElectroOffice/ElectroOffice/releases/download/ElectroWrite-1.1.0/ElectroWrite.Setup.zip",
   "mandatory": true
