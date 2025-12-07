@@ -1,6 +1,6 @@
 {
   "app": "ElectroWrite",
-  "latestVersion": "0.0.110",
+  "latestVersion": "0.0.124",
   "releaseNotes": "• Modified ElectroWrite Project - AssemblyInfo.cs (Added assembly info)",
   "downloadUrl": "https://github.com/ElectroOffice/releases/download/v0.0.124/ElectroWrite Update Install Setup.zip",
   "mandatory": false
