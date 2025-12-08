@@ -1,6 +1,6 @@
 {
     "app": "ElectroWrite",
-    "latestVersion": "0.0.141",
+    "latestVersion": "0.0.150",
     "releaseNotes": "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (Added Animated gradient fill to progress bar, Added Glow pulse to Icon, Added Error-state red shake animation, Added Sharp Success Fill Snap, Added Success Color Lock, and Added Download Speed Display)",
     "downloadUrl": "https://github.com/ElectroGaming10/ElectroOffice-Suite/raw/refs/heads/main/releases/download/v0.0.141/ElectroWrite%20Update%20Install%20Setup.zip",
     "mandatory": false,
