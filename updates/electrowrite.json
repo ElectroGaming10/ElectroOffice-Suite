@@ -1,6 +1,6 @@
 {
   "app": "ElectroWrite",
-  "latestVersion": "0.0.130",
+  "latestVersion": "0.0.129",
   "releaseNotes": "• Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (Fixed Updater)",
   "downloadUrl": "https://github.com/ElectroGaming10/ElectroOffice-Suite/raw/refs/heads/main/releases/download/v0.0.129/ElectroWrite%20Update%20Install%20Setup.zip",
   "mandatory": false
