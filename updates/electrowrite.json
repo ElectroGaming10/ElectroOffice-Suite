@@ -1,6 +1,6 @@
 {
     "app": "ElectroWrite",
-    "latestVersion": "0.0.135",
+    "latestVersion": "0.0.132",
     "releaseNotes": "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (Added Automatic TEMP Cleanup, Added Automatic Download Retry during failure, and ETA text display)xaml.cs",
     "downloadUrl": "https://github.com/ElectroGaming10/ElectroOffice-Suite/raw/refs/heads/main/releases/download/v0.0.132/ElectroWrite%20Update%20Install%20Setup.zip",
     "mandatory": false,
