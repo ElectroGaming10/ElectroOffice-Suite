@@ -1,12 +1,15 @@
 {
     "app": "ElectroWrite",
-    "latestVersion": "0.0.135",
-    "releaseNotes": "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (Added Changelog List to Dialog and Fixed Dialog popping behind), and Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml (Fixed Progress Bar)",
-    "downloadUrl": "https://github.com/ElectroGaming10/ElectroOffice-Suite/raw/refs/heads/main/releases/download/v0.0.135/ElectroWrite%20Update%20Install%20Setup.zip",
+    "latestVersion": "0.0.141",
+    "releaseNotes": "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (Added Animated gradient fill to progress bar, Added Glow pulse to Icon, Added Error-state red shake animation, Added Sharp Success Fill Snap, Added Success Color Lock, and Added Download Speed Display)",
+    "downloadUrl": "https://github.com/ElectroGaming10/ElectroOffice-Suite/raw/refs/heads/main/releases/download/v0.0.141/ElectroWrite%20Update%20Install%20Setup.zip",
     "mandatory": false,
     "changes": [
-        "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (Added Changelog List to Dialog)",
-        "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (Fixed Dialog popping behind)",
-        "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml (Fixed Progress Bar)"
+        "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (Added Animated gradient fill to progress bar)",
+        "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (Added Glow pulse to Icon)",
+        "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (Added Error-state red shake animation)",
+        "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (Added Sharp Success Fill Snap)",
+        "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (Added Success Color Lock)",
+        "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (Added Download Speed Display)"
     ]
 }
