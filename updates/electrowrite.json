@@ -1,12 +1,12 @@
 {
     "app": "ElectroWrite",
-    "latestVersion": "0.0.132",
-    "releaseNotes": "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (Added Automatic TEMP Cleanup, Added Automatic Download Retry during failure, and ETA text display)xaml.cs",
-    "downloadUrl": "https://github.com/ElectroGaming10/ElectroOffice-Suite/raw/refs/heads/main/releases/download/v0.0.132/ElectroWrite%20Update%20Install%20Setup.zip",
+    "latestVersion": "0.0.135",
+    "releaseNotes": "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (Added Changelog List to Dialog and Fixed Dialog popping behind), and Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml (Fixed Progress Bar)",
+    "downloadUrl": "https://github.com/ElectroGaming10/ElectroOffice-Suite/raw/refs/heads/main/releases/download/v0.0.135/ElectroWrite%20Update%20Install%20Setup.zip",
     "mandatory": false,
     "changes": [
-        "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (Added Automatic TEMP Cleanup)",
-        "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (Added Automatic Download Retry during failure)",
-        "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (ETA text display)"
+        "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (Added Changelog List to Dialog)",
+        "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (Fixed Dialog popping behind)",
+        "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml (Fixed Progress Bar)"
     ]
 }
