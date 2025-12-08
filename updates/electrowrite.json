@@ -1,12 +1,12 @@
 {
-  "app": "ElectroWrite",
-  "latestVersion": "0.0.132",
-  "releaseNotes": "Updater reliability improvements and ETA display.",
-  "downloadUrl": "https://github.com/ElectroGaming10/ElectroOffice-Suite/raw/refs/heads/main/releases/download/v0.0.132/ElectroWrite%20Update%20Install%20Setup.zip",
-  "mandatory": false,
-  "changes": [
-    "Modified ElectroWrite Project - ElectroWrite.Updater.xaml.cs (Added automatic TEMP cleanup)",
-    "Modified ElectroWrite Project - ElectroWrite.Updater.xaml.cs (Added automatic download retry on failure)",
-    "Modified ElectroWrite Project - ElectroWrite.Updater.xaml.cs (Added ETA text during download)"
-  ]
+    "app": "ElectroWrite",
+    "latestVersion": "0.0.132",
+    "releaseNotes": "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (Added Automatic TEMP Cleanup, Added Automatic Download Retry during failure, and ETA text display)xaml.cs",
+    "downloadUrl": "https://github.com/ElectroGaming10/ElectroOffice-Suite/raw/refs/heads/main/releases/download/v0.0.132/ElectroWrite%20Update%20Install%20Setup.zip",
+    "mandatory": false,
+    "changes": [
+        "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (Added Automatic TEMP Cleanup)",
+        "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (Added Automatic Download Retry during failure)",
+        "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (ETA text display)"
+    ]
 }
