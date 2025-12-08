@@ -5,8 +5,8 @@
   "downloadUrl": "https://github.com/ElectroGaming10/ElectroOffice-Suite/raw/refs/heads/main/releases/download/v0.0.132/ElectroWrite%20Update%20Install%20Setup.zip",
   "mandatory": false
   "changes": [
-    "• Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (Added Automatic TEMP Cleanup)",
-    "• Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (Added Automatic Download Retry during failure)",
-    "• Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (ETA text display)"
+    "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (Added Automatic TEMP Cleanup)",
+    "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (Added Automatic Download Retry during failure)",
+    "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (ETA text display)"
   ]
 }
