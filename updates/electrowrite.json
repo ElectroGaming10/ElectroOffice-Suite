@@ -1,7 +1,7 @@
 {
     "app": "ElectroWrite",
     "latestVersion": "0.0.163",
-    "releaseNotes": "",
+    "releaseNotes": "Modified ElectroWrite Project - MainWindow.xaml.cs (Fixed Saved / Unsaved / Autosaved UI desync, Centered Text Misplacement, Fixed Font & Text Size Formatting Issue, Fixed Font handling stabilization - ATTEMPTED to fix Font & Text Size Box Cancelation During Undo History Update, Fixed Saved / Unsaved / Autosaved UI desync - During Save As, Added some Status bar micro-UX polish, Added CAPS LOCK Status Bar update, Added some Undo History polish, Soft Fixed Centered text Misplacement Issue, Added some micro-UX win changes, Added Visual Page Boundary Toggle, Added Toolbar and Menu Polish) and Modified ElectroWrite Project - PrintPreviewWindow.xaml.cs (Added some Print preview polish, Added Print Preview Zoom Slider, Added Multi-page Page-Break Rendering)",
     "downloadUrl": "https://github.com/ElectroGaming10/ElectroOffice-Suite/raw/refs/heads/main/releases/download/v0.0.163/ElectroWrite%20Update%20Install%20Setup.zip",
     "mandatory": false,
     "changes": [
