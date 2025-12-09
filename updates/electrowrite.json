@@ -1,14 +1,24 @@
 {
     "app": "ElectroWrite",
-    "latestVersion": "0.0.147",
-    "releaseNotes": "Modified ElectroWrite Project - Modified VersionCheckStage.cs (Added Offline-safe update check, Added accurate and improved Offline-safe update check, and Added Update Cache Info - For Offline Viewing), Modified ElectroWrite Project - Modified MainWindow.xaml (Added Check for updates Button and Added Show cached changelog in About dialog)",
-    "downloadUrl": "https://github.com/ElectroGaming10/ElectroOffice-Suite/raw/refs/heads/main/releases/download/v0.0.147/ElectroWrite%20Update%20Install%20Setup.zip",
+    "latestVersion": "0.0.163",
+    "releaseNotes": "",
+    "downloadUrl": "https://github.com/ElectroGaming10/ElectroOffice-Suite/raw/refs/heads/main/releases/download/v0.0.163/ElectroWrite%20Update%20Install%20Setup.zip",
     "mandatory": false,
     "changes": [
-        "Modified ElectroWrite Project - Modified VersionCheckStage.cs (Added Offline-safe update check)",
-        "Modified ElectroWrite Project - Modified VersionCheckStage.cs (Added accurate and improved Offline-safe update check)",
-        "Modified ElectroWrite Project - Modified MainWindow.xaml (Added Check for updates Button)",
-        "Modified ElectroWrite Project - Modified VersionCheckStage.cs (Added Update Cache Info - For Offline Viewing)",
-        "Modified ElectroWrite Project (Added Show cached changelog in About dialog)"
+        "Modified ElectroWrite Project - MainWindow.xaml.cs (Fixed Saved / Unsaved / Autosaved UI desync)",
+        "Modified ElectroWrite Project - MainWindow.xaml.cs (Centered Text Misplacement)",
+        "Modified ElectroWrite Project - MainWindow.xaml.cs (Fixed Font & Text Size Formatting Issue)",
+        "Modified ElectroWrite Project - MainWindow.xaml.cs (Fixed Font handling stabilization - ATTEMPTED to fix Font & Text Size Box Cancelation During Undo History Update)",
+        "Modified ElectroWrite Project - MainWindow.xaml.cs (Fixed Saved / Unsaved / Autosaved UI desync - During Save As)",
+        "Modified ElectroWrite Project - MainWindow.xaml.cs (Added some Status bar micro-UX polish)",
+        "Modified ElectroWrite Project - MainWindow.xaml.cs (Added CAPS LOCK Status Bar update)",
+        "Modified ElectroWrite Project - MainWindow.xaml.cs (Added some Undo History polish)",
+        "Modified ElectroWrite Project - MainWindow.xaml.cs (Soft Fixed Centered text Misplacement Issue)",
+        "Modified ElectroWrite Project - PrintPreviewWindow.xaml.cs (Added some Print preview polish)",
+        "Modified ElectroWrite Project - MainWindow.xaml.cs (Added some micro-UX win changes)",
+        "Modified ElectroWrite Project - MainWindow.xaml.cs (Added Visual Page Boundary Toggle)",
+        "Modified ElectroWrite Project - PrintPreviewWindow.xaml.cs (Added Print Preview Zoom Slider)",
+        "Modified ElectroWrite Project - PrintPreviewWindow.xaml.cs (Added Multi-page Page-Break Rendering)",
+        "Modified ElectroWrite Project - MainWindow.xaml (Added Toolbar and Menu Polish)"
     ]
 }
