@@ -1,7 +1,7 @@
 {
     "app": "ElectroWrite",
     "latestVersion": "0.0.169",
-    "releaseNotes": "Modified ElectroWrite Project - MainWindow.xaml (Modified Page Boundaries Panel - Made some ux polish), Modified ElectroWrite Project (Added File Icon - DOCX, Added App File Icon - DOCX)")",
+    "releaseNotes": "Modified ElectroWrite Project - MainWindow.xaml (Modified Page Boundaries Panel - Made some ux polish), Modified ElectroWrite Project (Added File Icon - DOCX, Added App File Icon - DOCX))",
     "downloadUrl": "https://github.com/ElectroGaming10/ElectroOffice-Suite/raw/refs/heads/main/releases/download/v0.0.169/ElectroWrite%20Update%20Install%20Setup.zip",
     "mandatory": false,
     "changes": [
