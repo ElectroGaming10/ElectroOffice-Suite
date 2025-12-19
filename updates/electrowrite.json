@@ -16,6 +16,21 @@
         "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (Added Retry Connection with Cooldown)",
         "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (Added Cache Update/Resumable Download)",
         "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (Added Update UI Stage Polishes)",
-        "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (Added Update Rollback if fails)"
+        "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (Added Update Rollback if fails)",
+        "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (Modified Update Progess Bar UI - Stages are now smooth!)",
+        "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (Added Error Color Animation to Progress Bar)",
+        "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (Added Retry Update Installation Feature)",
+        "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (Added Error Log File Feature)",
+        "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (Added Blue flashing/fading text UI to Connecting Stage)",
+        "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (Added Restart Download when Update link refreshes - To ensure latest update & prevent corruption)",
+        "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (Added New Update Event Logger)",
+        "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (Severity-Based Logs to Update Event Logger)",
+        "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (Added View Updater Log Button)",
+        "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (Added Checksum Verification Stage)",
+        "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (Added Progress Bar Glow for Update Stages)",
+        "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (Added Fade in/Fade out Breathing Glowing Effect to Progress Bar)",
+        "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (Smooth Cross-fade bettween glow colors to Progress Bar)",
+        "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (Added Progress Bar Glow Intensity based on Speed/Disk Activity for Update Stages)",
+        "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml (Resized Window and added padding UI polishes)"
     ]
 }
