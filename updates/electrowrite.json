@@ -12,7 +12,7 @@
         "Modified ElectroWrite Project (Added App Icon - ElectroWrite Updater)",
         "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml (Added App Icon - ElectroWrite Updater)",
         "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (Fixed & Readded Downloading Phase Flashing)",
-        "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (Added "Connecting to Server" Phase)",
+        "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (Added 'Connecting to Server' Phase)",
         "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (Added Retry Connection with Cooldown)",
         "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (Added Cache Update/Resumable Download)",
         "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (Added Update UI Stage Polishes)",
