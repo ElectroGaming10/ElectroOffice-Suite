@@ -1,13 +1,21 @@
 {
     "app": "ElectroWrite",
-    "latestVersion": "0.0.169",
-    "releaseNotes": "Modified ElectroWrite Project - MainWindow.xaml (Modified Page Boundaries Panel - Made some ux polish), Modified ElectroWrite Project (Added File Icon - DOCX, Added App File Icon - DOCX))",
-    "downloadUrl": "https://github.com/ElectroGaming10/ElectroOffice-Suite/raw/refs/heads/main/releases/download/v0.0.169/ElectroWrite%20Update%20Install%20Setup.zip",
+    "latestVersion": "0.0.200",
+    "releaseNotes": "Modified ElectroWrite Project - ElectroOffice.Installer (Added File Type DOCX, Added File Type EWRITE, Modified File Type EWRITE - Added Icon), Modified ElectroWrite Project (Added File Icon - EWRITE, Added App Icon - ElectroWrite Updater), Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml (Added App Icon - ElectroWrite Updater, Resized Window and added padding UI polishes), and Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (Fixed & Readded Downloading Phase Flashing, Added "Connecting to Server" Phase, Added Retry Connection with Cooldown, Added Cache Update/Resumable Download, Added Update UI Stage Polishes, Added Update Rollback if fails, Modified Update Progess Bar UI - Stages are now smooth!, Added Error Color Animation to Progress Bar, Added Retry Update Installation Feature, Added Error Log File Feature, Added Blue flashing/fading text UI to Connecting Stage, Added Restart Download when Update link refreshes - To ensure latest update & prevent corruption, Added New Update Event Logger, Severity-Based Logs to Update Event Logger, Added View Updater Log Button, Added Checksum Verification Stage, Added Progress Bar Glow for Update Stages, Added Fade in/Fade out Breathing Glowing Effect to Progress Bar, Smooth Cross-fade bettween glow colors to Progress Bar, Added Progress Bar Glow Intensity based on Speed/Disk Activity for Update Stages)",
+    "downloadUrl": "https://github.com/ElectroGaming10/ElectroOffice-Suite/raw/refs/heads/main/releases/download/v0.0.200/ElectroWrite%20Update%20Install%20Setup.zip",
     "mandatory": false,
     "changes": [
-        "Modified ElectroWrite Project - MainWindow.xaml (Modified Page Boundaries Panel - Made some ux polish)",
-        "Modified ElectroWrite Project (Added File Icon - DOCX)",
-        "Modified ElectroWrite Project - MainWindow.xaml.cs (File Icon Script)",
-        "Modified ElectroWrite Project (Added App File Icon - DOCX)"
+        "Modified ElectroWrite Project - ElectroOffice.Installer (Added File Type DOCX)",
+        "Modified ElectroWrite Project - ElectroOffice.Installer (Added File Type EWRITE)",
+        "Modified ElectroWrite Project - ElectroOffice.Installer (Modified File Type EWRITE - Added Icon)",
+        "Modified ElectroWrite Project (Added File Icon - EWRITE)",
+        "Modified ElectroWrite Project (Added App Icon - ElectroWrite Updater)",
+        "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml (Added App Icon - ElectroWrite Updater)",
+        "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (Fixed & Readded Downloading Phase Flashing)",
+        "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (Added "Connecting to Server" Phase)",
+        "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (Added Retry Connection with Cooldown)",
+        "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (Added Cache Update/Resumable Download)",
+        "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (Added Update UI Stage Polishes)",
+        "Modified ElectroWrite Project - Modified ElectroWrite.Updater.xaml.cs (Added Update Rollback if fails)"
     ]
 }
